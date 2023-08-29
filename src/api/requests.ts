@@ -2,7 +2,8 @@ import axios, { AxiosResponse } from "axios";
 
 // const baseUrl = 'https://backend-rs-clone-production.up.railway.app';
 // для локального использования бека
-const baseUrl = 'http://localhost:3001'; 
+// const baseUrl = 'http://localhost:3001'; 
+const baseUrl = 'https://backend-rs-clone-copy.onrender.com'; 
 
 // получение страны по id
 export function getCountry(id: number, lang: string) {
