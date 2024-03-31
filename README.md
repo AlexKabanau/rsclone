@@ -1,5 +1,9 @@
 # Amazing Trip
 
+[deploy](https://alexkabanau.github.io/rsclone/)
+
+[backend](https://github.com/AlexKabanau/backend-rs-clone)
+
 Authors: [Elena Iakovenko](https://github.com/Elena-MyOne), [Tatyana Shipulina](https://github.com/shipu4ka), [Alexandr Kabanau](https://github.com/AlexKabanau)
 
 For correct work of the application you need to use : Node.js v16.18.1.
@@ -38,7 +42,7 @@ For correct work of the application you need to use : Node.js v16.18.1.
 - Node.js, Express, Axios
 
 Written from scratch and has a history of commits.
-[Back end deploy](https://backend-rs-clone-production.up.railway.app)
+[Back end deploy](https://backend-rs-clone-production.up.railway.app) or it'll be work with ghPages
 
 ## Points
 
